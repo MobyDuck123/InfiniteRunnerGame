@@ -97,7 +97,7 @@ GameObject:
   - component: {fileID: 1791358911696552913}
   m_Layer: 0
   m_Name: Obstacle
-  m_TagString: Untagged
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -111,8 +111,8 @@ Transform:
   m_GameObject: {fileID: 4613514429883710037}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.035861004, z: -0, w: 0.99935687}
-  m_LocalPosition: {x: 5.5881996, y: 0.00000047683716, z: -1.1402302}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 25.011, y: -0.039649, z: 0.25206}
+  m_LocalScale: {x: 1.0442, y: 1.0442, z: 1.0442}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 3539410152257070846}
